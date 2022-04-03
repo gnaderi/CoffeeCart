@@ -47,6 +47,7 @@ public class CCLauncher {
                     System.out.println("Enter (c) or (clear) to clear screen.\n");
                 } catch (Exception ex) {
                     System.err.println("Unable to parse the order!");
+                    System.err.println("Please enter the choices[1-9] in comma seperated(1,3,4,4,5,9).");
                 } finally {
                     Thread.sleep(1000);
                     printService.printMenu();

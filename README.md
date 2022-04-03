@@ -28,17 +28,4 @@ To build the project download the  source code and cd into  it.
 - `java  -jar build/libs/CoffeeCart-1.0-SNAPSHOT.jar "large coffee with extra milk with foamed milk"`
 - `java  -jar build/libs/CoffeeCart-1.0-SNAPSHOT.jar`
   - This will show a Menu with list of options(select id comma seperated). i.e 1,2,3,4,4,3 
-  - 
-```============================================
-                Coffee Cart Menu                                                
---------------------------------------------
-1 Small Coffee             2.50   CHF
-2 Medium Coffee            3.00   CHF
-3 Large Coffee             3.50   CHF
-4 Bacon Roll               4.50   CHF
-5 Orange Juice             3.95   CHF
-6 Extra milk               0.30   CHF
-7 Foamed milk              0.50   CHF
-8 Special roast            0.90   CHF
-9 Stamp                    0.00   CHF
-Select your snack and beverage: 1,2,2,3,4,4,5,6,7,8,9 (Press the Enter/Return key)
+  ![](CoffeeCart.png)
